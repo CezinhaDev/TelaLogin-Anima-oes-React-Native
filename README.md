@@ -1,6 +1,5 @@
 ![image](https://github.com/user-attachments/assets/e62175e2-f8f4-43a1-a1ca-88c447c8c7c0)
 
-
 Tela de Login Animada em React Native
 Este projeto é uma tela de login interativa, desenvolvida em React Native com Expo , que utiliza animações suaves para aprimorar a experiência do usuário. O design é pensado para ser moderno e responsivo, ideal para aplicativos móveis com uma interface visualmente atraente.
 
