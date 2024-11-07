@@ -30,8 +30,8 @@ cd nome-do-repositorio
 npm install
 Inicie o projeto com o Expo:
 
-bater
-
 Copiar código
+
 npx expo start
+
 Use o aplicativo Expo Go para visualizar um aplicativo em seu dispositivo ou execute no emulador.
